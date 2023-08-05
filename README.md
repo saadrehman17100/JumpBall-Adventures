@@ -4,8 +4,11 @@
 
 **Gameplay:**
 •	The game offers intuitive controls, allowing players to guide the ball's movement through left and right inputs.
+
 •	Your objective is to steer the ball across platforms, avoid obstacles, and reach the end of each level to progress.
+
 •	Challenges include strategically timing jumps to clear gaps, avoiding treacherous obstacles, and overcoming various level layouts.
+
 •	The game features a jumping mechanic where the ball can leap to navigate over obstacles and hazards.
 
 **Key Features:**
